@@ -1,0 +1,417 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	font-size: 0.98em;
+	font-family: Verdana, Arial;
+}
+
+body{
+	background-color: #769aa4;
+}
+
+.header{
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	float: left;
+}
+
+.header-container{
+	width: 1024px;
+}
+
+.header-title{
+	width: 300px;
+	height: auto;
+	color: #000;
+	float: left;
+	font-size: 1.3em;
+	padding: 7px 0px;
+}
+
+.slide-down-div{
+	width: 724px;
+	height: auto;
+	float: left;
+	display: block;
+}
+
+.container{
+	width: 1024px;
+	color: #fff;
+}
+
+.search-div{
+	width: 700px;
+	float: left;
+	padding: 10px 0px;
+	text-align: center;
+}
+
+#search_result table{
+	width: 700px;
+}
+
+#search_result table tr td:nth-child(1){
+	text-align: right;
+}
+
+#search_result table tr td:nth-child(3){
+	text-align: left;
+}
+
+#search_result{
+	padding: 10px 0px;
+}
+
+#search_field{
+	background: url('icons/search.png') no-repeat;
+	background-size: 28px 28px;
+	padding: 5px 5px 5px 35px;
+	background-color: #769aa4;
+	width: 300px;
+}
+
+.registration-div{
+	width: 324px;
+	float: left;
+	padding: 10px 0px;
+	text-align: center;
+}
+
+.registration_form_field{
+	padding: 5px;
+}
+
+input[type=text], input[type=password], input[type=email], input[type=button], input[type=submit]{
+	padding: 5px;
+}
+
+input[type=text], input[type=password], input[type=email]{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background-color: #769aa4;
+	outline: none;
+	color: #fff;
+}
+
+.login-icon-div{
+	display: none;
+}
+
+.login-div{
+	float: right;
+}
+
+.login-form-field-div{
+	float: left;
+	padding: 10px 5px;
+}
+
+.login-form-field-div input[type=text], .login-form-field-div input[type=password]{
+	border: none;
+	border-bottom: 1px solid #000;
+	background-color: #fff;	
+	color: #000;
+}
+
+.menu-icon-div{
+	display: none;
+}
+
+.menu-div{
+	float: right;
+}
+
+.menu-div li{
+	list-style: none;
+	float: left;
+	padding: 10px 18px;
+}
+
+.menu-div li a{
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+
+.menu-div li a.active{
+	color: #e47b00;
+}
+
+.word-management table{
+	padding: 20px 0px;
+}
+
+.word-management label{
+	font-weight: bold;
+}
+
+.word-management input[type=text]{
+	width: 300px;
+}
+
+.word-management table tr{
+	height: 25px;
+}
+
+.word-management table tr td:nth-child(1), .word-management table tr td:nth-child(1) input{
+	text-align: right;
+}
+
+.word-management table tr td:nth-child(3){
+	text-align: left;
+}
+
+.word-management .word-row{
+	height: 80px;
+}
+
+.word-management table tr.word-add-button-row td{
+	height: 80px;
+	text-align: center;
+}
+
+.test-language-div, .test-type-div, .test-question-count-div{
+	width: 330px;
+	padding: 20px 5px;
+	float: left;
+}
+
+.test-language-div div, .test-type-div div, .test-question-count-div div{
+	padding: 5px 0px;
+}
+
+.test-settings-radio-buttons{
+	width: auto;
+	height: auto;
+	float: left;
+}
+
+.test-get-button{
+	width: 100%;
+	text-align: center;
+}
+
+#include_test_table{
+	padding-top: 20px;
+}
+
+#test_table input[type=text]{
+	width: 350px;
+}
+
+#test_table tr{
+	height: 50px;
+}
+
+#div_include_test_Ready_button{
+	text-align: center;
+	padding: 10px;
+}
+
+input[type=text].bad-answer{
+	border-color: #ff0000;
+}
+
+input[type=text].good-answer{
+	border-color: #00ff00;
+}
+
+#include_bad_answers_table{
+	padding: 20px 0px;
+}
+
+#bad_answers_table th{
+	color: #ff0000;
+	text-align: center;
+}
+
+#bad_answers_table td:nth-child(1){
+	text-align: right;
+}
+
+#bad_answers_table td:nth-child(3){
+	text-align: left;
+}
+
+.aggregated-table-div{
+	float: left;
+	width: 100%;
+	height: auto;
+	padding: 20px 0px 10px 0px;
+}
+
+#aggregated_test_results{
+	border-collapse: collapse;
+}
+
+#aggregated_test_results th{
+	text-align: left;
+	padding: 10px 10px 10px 0px;
+	border-bottom: 1px solid #fff;
+}
+
+#aggregated_test_results td{
+	text-align: right;
+	border-bottom: 1px solid #fff;	
+}
+
+
+#aggregated_test_results tr:last-child td, #aggregated_test_results tr:last-child th{
+	border-bottom: none;
+}
+
+.test-list-table-div{
+	overflow: auto;
+	width: 100%;
+	height: 500px;
+}
+
+#test_results_list{
+	border-collapse: collapse;
+}
+
+#test_results_list th{
+	padding: 5px;
+	background-color: #59747b;
+}
+
+#test_results_list td{
+	padding: 5px;
+}
+
+#test_results_list tr:nth-child(even) td{
+	background-color: #627f87;
+}
+
+@media screen and (max-width: 1024px) {
+
+	.header-container{
+		width: 100%;
+	}
+	
+	.header-title{
+		width: 100%;
+		text-align: center;
+	}
+	
+	.slide-down-div{
+		width: 100%;
+	}
+	
+	.menu-div{
+		width: auto;
+		float: none;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	.menu-div li{
+		display: inline-block;
+	}
+	
+	.login-div{
+		width: auto;
+		float: none;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	.container{
+		width: 100%;
+	}
+	
+	.search-div{
+		width: 100%;
+	}
+	
+	#search_result table{
+		width: 100%;
+	}
+	
+	#search_result table td{
+		word-wrap: break-word;
+	}
+	
+	.registration-div{
+		width: 100%;
+	}
+	
+	.test-settings-radio-buttons{
+		width: 96%;
+		padding: 0% 2%;
+		height: auto;
+		float: left;
+	}
+	
+	.test-language-div, .test-type-div, .test-question-count-div{
+		width: 100%;
+	}
+	
+}
+
+@media screen and (max-width: 680px) {
+	
+	.menu-div li{
+		width: 100%;
+		text-align: center;
+		padding: 10px 0px;
+	}
+	
+	.menu-div li:last-child{
+		padding-bottom: 20px;
+	}
+	
+	.menu-icon-div{
+		display: block;
+		width: 50px;
+		height: 50px;
+		padding: 10px 20px;
+		float: right;
+		background: url('icons/menu.png') no-repeat;
+		background-size: 50px 50px;
+		cursor: pointer;
+	}
+	
+	.login-icon-div{
+		display: block;
+		width: 50px;
+		height: 50px;
+		padding: 10px 20px;
+		float: right;
+		background: url('icons/login.png') no-repeat;
+		background-size: 50px 50px;
+		cursor: pointer;
+	}
+	
+	.login-form-field-div{
+		width: 100%;
+		text-align: center;
+	}
+	
+	.slide-down-div{
+		display: none;
+	}
+	
+	.search-div{
+		width: 96%;
+		padding-left: 2%;
+		padding-right: 2%;
+	}
+	
+	#search_field{
+		width: 70%;
+	}
+	
+	.word-management input[type=text]{
+		width: 140px;
+	}
+	
+	#test_table input[type=text]{
+		width: 150px;
+	}
+
+}

@@ -1,0 +1,342 @@
+2020.05.06. 08:50:48 - Argument 5 passed to modell\User::__construct() must be of the type bool, null given, called in C:\wamp64\www\szotar\database\UserMySqlPDO.php on line 56
+2020.05.06. 08:53:24 - Return value of modell\User::isAdmin() must be of the type bool, null returned
+2020.05.06. 19:25:28 - teszt
+2020.05.06. 19:27:46 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:47 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:27:48 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:30:00 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:30:00 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:30:00 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:30:01 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:30:01 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:30:01 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned
+2020.05.06. 19:33:43 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:43 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:43 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:43 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:43 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:43 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:33:44 - Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68
+2020.05.06. 19:36:05 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:06 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:07 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:36:07 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(13): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:58 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.06. 19:45:59 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 68, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(11): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.07. 12:35:07 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%a%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:08 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%as%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:08 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asa%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:09 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asas%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:09 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asasa%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:09 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asasas%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:09 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asasasa%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:11 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%a%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:11 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%as%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:11 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asd%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:11 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asda%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:12 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asdas%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:12 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': limit' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%asdasd%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:59 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10'' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%a%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:35:59 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10'' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 223, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(223): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('%ad%', '%', '%', '10')
+#2 {main}
+2020.05.07. 12:43:35 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by case when (jelentesek.magyar_szo like 'a%' or jelentesek.angol_szo like' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 231, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(231): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('a', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:43:36 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by case when (jelentesek.magyar_szo like 'al%' or jelentesek.angol_szo lik' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 231, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(231): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('al', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:43:36 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by case when (jelentesek.magyar_szo like 'alm%' or jelentesek.angol_szo li' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 231, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(231): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('alm', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:43:37 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by case when (jelentesek.magyar_szo like 'alma%' or jelentesek.angol_szo l' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 231, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(231): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('alma', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:44:32 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'then 1else 2end' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 230, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(230): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('a', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:44:32 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'then 1else 2end' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 230, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(230): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('aa', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:44:33 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'then 1else 2end' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 230, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(230): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('aaa', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:44:33 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'then 1else 2end' at line 1, C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 230, #0 C:\wamp64\www\szotar\database\MeaningMySqlPDO.php(230): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(22): database\MeaningMySqlPDO->filterMeaningByFields('aaaa', '%', '%', 10)
+#2 {main}
+2020.05.07. 12:45:39 - 0, syntax error, unexpected '$stmt' (T_VARIABLE), C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 220, #0 [internal function]: autoloader('database\\Meanin...')
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(21): spl_autoload_call('database\\Meanin...')
+#2 {main}
+2020.05.07. 12:45:39 - 0, syntax error, unexpected '$stmt' (T_VARIABLE), C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 220, #0 [internal function]: autoloader('database\\Meanin...')
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(21): spl_autoload_call('database\\Meanin...')
+#2 {main}
+2020.05.07. 12:45:39 - 0, syntax error, unexpected '$stmt' (T_VARIABLE), C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 220, #0 [internal function]: autoloader('database\\Meanin...')
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(21): spl_autoload_call('database\\Meanin...')
+#2 {main}
+2020.05.07. 12:45:39 - 0, syntax error, unexpected '$stmt' (T_VARIABLE), C:\wamp64\www\szotar\database\MeaningMySqlPDO.php, 220, #0 [internal function]: autoloader('database\\Meanin...')
+#1 C:\wamp64\www\szotar\controller\filteredMeaningToJSON.php(21): spl_autoload_call('database\\Meanin...')
+#2 {main}
+2020.05.07. 18:21:44 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 84, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\getTest.php(25): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.07. 18:23:50 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'inner join ( jelentes inner join angol ) on magyar.szo_id = jelentes.magyar_id a' at line 1, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 39, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(39): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\getTest.php(43): database\TestGeneratorMySqlPDO->getRandomTestByTopic('home', 'angol', 'magyar', '10')
+#2 {main}
+2020.05.07. 18:25:50 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'inner join ( jelentes inner join angol ) on magyar.szo_id = jelentes.magyar_id a' at line 1, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 39, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(39): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\getTest.php(43): database\TestGeneratorMySqlPDO->getRandomTestByTopic('home', 'angol', 'magyar', 10)
+#2 {main}
+2020.05.07. 19:16:31 - 0, syntax error, unexpected ';', C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 37, #0 [internal function]: autoloader('database\\TestGe...')
+#1 C:\wamp64\www\szotar\controller\getTest.php(31): spl_autoload_call('database\\TestGe...')
+#2 {main}
+2020.05.07. 19:19:35 - 0, Argument 1 passed to database\TestGeneratorMySqlPDO::getRandomTestByTopic() must be of the type array, string given, called in C:\wamp64\www\szotar\controller\getTest.php on line 44, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 30, #0 C:\wamp64\www\szotar\controller\getTest.php(44): database\TestGeneratorMySqlPDO->getRandomTestByTopic('otthon', 'magyar', 'angol', '10')
+#1 {main}
+2020.05.07. 19:26:54 - 42000, SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;évszakok&quot;) order by rand() limit 10' at line 1, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 43, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(43): PDO->query('select magyar.s...')
+#1 C:\wamp64\www\szotar\controller\getTest.php(44): database\TestGeneratorMySqlPDO->getRandomTestByTopic(Array, 'magyar', 'angol', 10)
+#2 {main}
+2020.05.07. 22:36:51 - 0, Argument 2 passed to database\TestGeneratorMySqlPDO::getRandomTestByTopic() must be of the type string, null given, called in C:\wamp64\www\szotar\controller\getTest.php on line 46, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 29, #0 C:\wamp64\www\szotar\controller\getTest.php(46): database\TestGeneratorMySqlPDO->getRandomTestByTopic(Array, NULL, 'angol', 10)
+#1 {main}
+2020.05.07. 22:50:39 - 21000, SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s), C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 43, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(43): PDO->query('select magyar.s...')
+#1 C:\wamp64\www\szotar\controller\getTest.php(46): database\TestGeneratorMySqlPDO->getRandomTestByTopic(Array, 'magyar', 'angol', 5)
+#2 {main}
+2020.05.07. 22:50:41 - 21000, SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s), C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 43, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(43): PDO->query('select magyar.s...')
+#1 C:\wamp64\www\szotar\controller\getTest.php(46): database\TestGeneratorMySqlPDO->getRandomTestByTopic(Array, 'magyar', 'angol', 5)
+#2 {main}
+2020.05.07. 22:50:44 - 21000, SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s), C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 43, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(43): PDO->query('select magyar.s...')
+#1 C:\wamp64\www\szotar\controller\getTest.php(46): database\TestGeneratorMySqlPDO->getRandomTestByTopic(Array, 'magyar', 'angol', 5)
+#2 {main}
+2020.05.09. 14:33:47 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 84, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(20): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.09. 14:34:37 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 84, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(20): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.09. 14:35:25 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 84, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(20): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.09. 14:35:54 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 84, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(20): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.09. 14:40:39 - 0, Return value of environment\Environment::getDBHhostName() must be of the type string, null returned, C:\wamp64\www\szotar\environment\Environment.php, 84, #0 C:\wamp64\www\szotar\database\MySqlDatabasePDOConnection.php(19): environment\Environment::getDBHhostName()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(20): database\MySqlDatabasePDOConnection->__construct()
+#2 {main}
+2020.05.09. 14:41:42 - 0, Call to a member function getUserName() on null, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 22, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(25): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 14:42:57 - 0, Return value of modell\Test::getUserName() must be an instance of modell\User, string returned, C:\wamp64\www\szotar\modell\Test.php, 72, #0 C:\wamp64\www\szotar\modell\TestValidator.php(28): modell\Test->getUserName()
+#1 C:\wamp64\www\szotar\database\TestMySqliPDO.php(22): modell\TestValidator->getUserName()
+#2 C:\wamp64\www\szotar\controller\testEvaluation.php(25): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#3 {main}
+2020.05.09. 14:44:52 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(25): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 14:50:22 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(25): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 14:53:01 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(27): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 14:56:18 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(27): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 14:57:29 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(27): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 14:58:50 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(27): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 14:59:53 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(27): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:00:05 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:00:20 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(29): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:00:30 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:00:45 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:02:10 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:02:30 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 29, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(29): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:02:43 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 29, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(29): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:03:10 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 30, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(30): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:03:23 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 31, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(31): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:03:33 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 32, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(32): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:04:34 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 32, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(32): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:05:20 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:06:04 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:06:21 - 23000, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dictionary`.`teszt`, CONSTRAINT `felhasznalonev_foreign_key` FOREIGN KEY (`felhasznalonev`) REFERENCES `felhasznalo` (`felhasznalonev`) ON DELETE CASCADE ON UPDATE CASCADE), C:\wamp64\www\szotar\database\TestMySqliPDO.php, 28, #0 C:\wamp64\www\szotar\database\TestMySqliPDO.php(28): PDOStatement->execute()
+#1 C:\wamp64\www\szotar\controller\testEvaluation.php(30): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#2 {main}
+2020.05.09. 15:28:00 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 36, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 15:28:53 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 36, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 15:31:05 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 37, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 15:31:33 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 37, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 15:31:53 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 37, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 15:33:11 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 36, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 15:37:11 - 0, Cannot pass parameter 2 by reference, C:\wamp64\www\szotar\database\TestMySqliPDO.php, 37, #0 C:\wamp64\www\szotar\controller\testEvaluation.php(28): database\TestMySqliPDO->saveTest(Object(modell\TestValidator))
+#1 {main}
+2020.05.09. 22:52:49 - 0, Argument 1 passed to modell\Word::__construct() must be of the type string, null given, called in C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php on line 50, C:\wamp64\www\szotar\modell\Word.php, 10, #0 C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php(50): modell\Word->__construct(NULL, '581')
+#1 C:\wamp64\www\szotar\controller\getTest.php(42): database\TestGeneratorMySqlPDO->getOldestAskedTest('angol', 'magyar', 10)
+#2 {main}
+2020.05.09. 22:56:56 - 0, Return value of database\TestGeneratorMySqlPDO::getMostOfTimeSpoiledTest() must be an instance of modell\Test, none returned, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 24, #0 C:\wamp64\www\szotar\controller\getTest.php(37): database\TestGeneratorMySqlPDO->getMostOfTimeSpoiledTest('angol', 'magyar', 10)
+#1 {main}
+2020.05.09. 22:56:59 - 0, Return value of database\TestGeneratorMySqlPDO::getMostOfTimeSpoiledTest() must be an instance of modell\Test, none returned, C:\wamp64\www\szotar\database\TestGeneratorMySqlPDO.php, 24, #0 C:\wamp64\www\szotar\controller\getTest.php(37): database\TestGeneratorMySqlPDO->getMostOfTimeSpoiledTest('angol', 'magyar', 10)
+#1 {main}
+2020.05.10. 17:55:04 - 0, Call to a member function prepare() on null, C:\wamp64\www\szotar\database\TestStatisticsMySqlPDO.php, 63, #0 C:\wamp64\www\szotar\database\TestStatisticsMySqlPDO.php(14): database\TestStatisticsMySqlPDO->setTestData(Object(PDO), 'istvan747')
+#1 C:\wamp64\www\szotar\controller\classes\TestStatisticsTables.php(18): database\TestStatisticsMySqlPDO->__construct(Object(PDO), 'istvan747')
+#2 C:\wamp64\www\szotar\public\statistics.php(28): controller\classes\TestStatisticsTables->__construct(Object(PDO), 'istvan747')
+#3 {main}
+2020.05.10. 18:19:59 - 0, Call to undefined method database\TestStatisticsMySqlPDO::getUnnownQuestionsPercent(), C:\wamp64\www\szotar\controller\classes\TestStatisticsTables.php, 57, #0 C:\wamp64\www\szotar\public\statistics.php(30): controller\classes\TestStatisticsTables->printAggregatedData()
+#1 {main}

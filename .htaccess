@@ -1,0 +1,47 @@
+DirectoryIndex /public/index.php
+ErrorDocument 404 /errorPages/404.php
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteRule ^signup$ /controller/signup.php
+
+RewriteRule ^logout$ /controller/logout.php
+
+RewriteRule ^login$ /controller/login.php
+
+RewriteRule ^gettest$ /controller/getTest.php
+
+RewriteRule ^words_management$ /public/word_management.php
+
+RewriteRule ^test$ /public/filltest.php
+
+RewriteRule ^statistics$ /public/statistics.php
+
+RewriteRule ^add_word$ /controller/add_word.php
+
+RewriteRule ^search$ /controller/filteredMeaningToJSON.php
+
+RewriteRule ^testevaluation$ /controller/testEvaluation.php
+
+RewriteRule ^js/search\.js$ /public/js/search.js
+
+RewriteRule ^js/test\.js$ /public/js/test.js
+
+RewriteRule ^js/topicSelectionDisable\.js$ /public/js/topicSelectionDisable.js
+
+RewriteRule ^css/style\.css$ /public/css/style.css
+
+RewriteRule ^js/jquery\.v\.3\.5\.1\.js$ /public/js/jquery.v.3.5.1.js
+
+RewriteRule ^js/slidejs\.js$ /public/js/slidejs.js
+
+RewriteRule ^css/icons/search\.png$ /public/css/icons/search.png
+
+RewriteRule ^css/icons/login\.png$ /public/css/icons/login.png
+
+RewriteRule ^css/icons/menu\.png$ /public/css/icons/menu.png
+
+</IfModule>
